@@ -1,11 +1,11 @@
 import React from "react";
 import "./amount.css";
 
-const Amount = ({ amount }) => {
+const Total = ({ total }) => {
   return (
     <div className="tip">
       <div className="left">
-        <h2>Tip Amount</h2>
+        <h2>Total</h2>
         <p>/ person</p>
       </div>
       <div className="right">$0.00</div>
@@ -13,4 +13,4 @@ const Amount = ({ amount }) => {
   );
 };
 
-export default Amount;
+export default Total;

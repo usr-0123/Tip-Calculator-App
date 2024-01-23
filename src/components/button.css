@@ -1,7 +1,7 @@
-.haiya{
-   
-    padding: 20px 40px 20px 40px;
-    background-color: green;
-    color: white;
-    margin-top: 10px;
+.haiya {
+  padding: 20px 40px 20px 40px;
+  background-color: hsl(183, 100%, 15%);
+  color: white;
+  margin-top: 10px;
+  border-radius: 10px;
 }
